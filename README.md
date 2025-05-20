@@ -13,8 +13,8 @@ I use this space to share projects that strengthen my skills in both back-end an
 
 ## Status
 
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Em4nueel&layout=compact&theme=material-palenight&hide_border=true) 
-| ![](https://github-readme-stats.vercel.app/api?username=Em4nueel&theme=material-palenight&show_icons=true&hide_border=true&count_private=true) 
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Em4nueel&layout=compact&theme=material-palenight&hide_border=true) 
+  ![](https://github-readme-stats.vercel.app/api?username=Em4nueel&theme=material-palenight&show_icons=true&hide_border=true&count_private=true) 
 
 <br>
 
@@ -30,50 +30,87 @@ I use this space to share projects that strengthen my skills in both back-end an
 
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px"> Skills </h2>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
       <br>Java
     </td>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65" />
       <br>Spring Boot
     </td>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65" />
       <br>C
     </td>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
       <br>Angular
     </td>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
+      <br>Maven
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=swagger" width="48" height="48" alt="Swagger" />
+      <br>Swagger
+    </td>
   </tr>
 </table>
+
+
+<h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> IDEs </h2>
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="65" height="65" alt="Eclipse" />
+      <br>Eclipse
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=intellij" width="48" height="48" alt="IntelliJ IDEA" />
+      <br>IntelliJ
+    </td>
+  </tr>
+</table>
+
 
 
 <h2><img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> Trophies </h2>
