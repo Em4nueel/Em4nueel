@@ -1,55 +1,79 @@
-# 💻 João Emanuel da Silva Ferreira
-
-Software Developer in training, focused on **Java** and **Spring Boot** technologies, and continuously evolving in the fields of **data mining** and **machine learning**.
-
-Currently, I use this repository to share projects that reinforce my studies and practice with both back-end and front-end technologies, as well as experiments with agile methodologies.
-
----
-
-## 🛠️ Technologies and Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JSF](https://img.shields.io/badge/JSF-000000?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2-0099D3?style=for-the-badge&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🖥️ IDEs and Editors
-
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Em4nueel&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Em4nueel&layout=compact&langs_count=7&theme=tokyonight"/>
+<p align="right">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FEm4nueel"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEm4nueel&label=Profile%20Views&labelColor=%23ffe4c8&countColor=%2386092c&style=flat" /></a>
 </p>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey,+I'm+João+Emanuel+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm João Emanuel Welcome to my Profile! animated typed out">
+<img src="assests/borderseperator.gif">
 
-## 📚 Areas of Study
+<p align="center">
+  <img src="https://wakatime.com/badge/user/65d2f429-0fff-4030-bb0c-babf96b02db1.svg?style=social" alt="waka">
+</p>
 
-- Software Development (undergraduate)
-- Data Mining
-- Machine Learning
-- Agile Methodologies (Scrum, Kanban)
-- Software Engineering
+### Welcome to my GitHub! :grin:
 
----
+#### Hello, my name is João Emanuel da Silva Ferreira. I am a Software Developer in training focused on **Java** and **Spring Boot**, continuously growing in **Data Mining** and **Machine Learning**.
 
-## 📫 How to reach me
+I use this space to share projects that strengthen my skills in both back-end and front-end technologies, along with experiments in Agile methodologies.
 
-[LinkedIn - João Emanuel da Silva Ferreira](https://www.linkedin.com/in/joãoemanueldasilvaferreira)
+## Status:
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Em4nueel&theme=moltack)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Em4nueel&theme=moltack&utcOffset=-3)|
+|---|---|
+<br> 
+
+|![](https://github-readme-streak-stats.herokuapp.com/?user=Em4nueel&theme=moltack&hide_border=false)|![Em4nueel's Stats](https://github-readme-stats.vercel.app/api?username=Em4nueel&theme=moltack&show_icons=true&hide_border=true&count_private=true)
+|---|---|
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Em4nueel&theme=moltack)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Em4nueel&theme=moltack)
+
+<h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
+
+<a href="https://www.linkedin.com/in/joãoemanueldasilvaferreira">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px"> Skills:</h2>
+
+<table align="center">
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+
+</table>
+
+<h2><img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> Trophies:</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Em4nueel&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies" align="middle" /> <br><br>
