@@ -39,6 +39,10 @@ I use this space to share projects that strengthen my skills in both back-end an
       <br>Java
     </td>
     <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65" />
+    <br>Spring Boot
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
