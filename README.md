@@ -17,7 +17,7 @@ I use this space to share projects that strengthen my skills in both back-end an
 |---|---|
 <br> 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=Em4nueel&theme=moltack&hide_border=true)|![Em4nueel's Stats](https://github-readme-stats.vercel.app/api?username=Em4nueel&theme=moltack&show_icons=true&hide_border=true&count_private=true)
+|![](https://github-readme-streak-stats.herokuapp.com/?user=Em4nueel&theme=moltack&hide_border=true)|![Em4nueel Stats](https://github-readme-stats.vercel.app/api?username=Em4nueel&theme=moltack&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
 
