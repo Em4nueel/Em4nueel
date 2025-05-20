@@ -1,12 +1,12 @@
 # 💻 João Emanuel da Silva Ferreira
 
-Desenvolvedor de Software em formação, com foco em tecnologias **Java** e **Spring Boot**, e em constante evolução no universo da **mineração de dados** e **machine learning**.
+Software Developer in training, focused on **Java** and **Spring Boot** technologies, and continuously evolving in the fields of **data mining** and **machine learning**.
 
-Atualmente, utilizo este repositório para compartilhar projetos que reforçam meus estudos e práticas com tecnologias back-end e front-end, além de experimentações com metodologias ágeis.
+Currently, I use this repository to share projects that reinforce my studies and practice with both back-end and front-end technologies, as well as experiments with agile methodologies.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -31,9 +31,9 @@ Atualmente, utilizo este repositório para compartilhar projetos que reforçam m
 
 ---
 
-## 📚 Áreas de Estudo
+## 📚 Areas of Study
 
-- Desenvolvimento de Software (graduação)
-- Mineração de Dados
+- Software Development (undergraduate)
+- Data Mining
 - Machine Learning
-- Metodologias Ágeis (Scrum, Kanban)
+- Agile Methodologies (Scrum, Kanban)
