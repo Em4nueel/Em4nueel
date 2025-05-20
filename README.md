@@ -14,8 +14,7 @@ I use this space to share projects that strengthen my skills in both back-end an
 ## Status
 
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Em4nueel&layout=compact&theme=material-palenight&hide_border=true) 
-| ![](https://github-readme-stats.vercel.app/api?username=Em4nueel&theme=material-palenight&show_icons=true&hide_border=true&count_private=true) |
-|---|---|
+| ![](https://github-readme-stats.vercel.app/api?username=Em4nueel&theme=material-palenight&show_icons=true&hide_border=true&count_private=true) 
 
 <br>
 
