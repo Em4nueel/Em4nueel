@@ -43,8 +43,8 @@ I use this space to share projects that strengthen my skills in both back-end an
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
-      <br>C
+    <img src="https://techstack-generator.vercel.app/c.svg" alt="C" width="65" height="65" />
+    <br>C
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
