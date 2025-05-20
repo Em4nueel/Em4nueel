@@ -1,7 +1,3 @@
-<p align="right">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FEm4nueel"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEm4nueel&label=Profile%20Views&labelColor=%23ffe4c8&countColor=%2386092c&style=flat" /></a>
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey,+I'm+João+Emanuel+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm João Emanuel Welcome to my Profile! animated typed out">
 <img src="assests/borderseperator.gif">
 
