@@ -13,15 +13,15 @@ I use this space to share projects that strengthen my skills in both back-end an
 
 ## Status
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Em4nueel&theme=moltack)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Em4nueel&theme=moltack&utcOffset=-3)|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Em4nueel&layout=compact&theme=material-palenight&hide_border=true) 
+| ![](https://github-readme-stats.vercel.app/api?username=Em4nueel&theme=material-palenight&show_icons=true&hide_border=true&count_private=true) |
 |---|---|
-<br> 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=Em4nueel&theme=moltack&hide_border=true)|![Em4nueel Stats](https://github-readme-stats.vercel.app/api?username=Em4nueel&theme=moltack&show_icons=true&hide_border=true&count_private=true)
-|---|---|
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Em4nueel&theme=moltack)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Em4nueel&theme=moltack)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Em4nueel&theme=material-palenight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Em4nueel&theme=material-palenight)
+
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts </h2>
 
