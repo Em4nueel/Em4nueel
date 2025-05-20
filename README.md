@@ -11,7 +11,7 @@
 
 I use this space to share projects that strengthen my skills in both back-end and front-end technologies, along with experiments in Agile methodologies.
 
-## Status:
+## Status
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Em4nueel&theme=moltack)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Em4nueel&theme=moltack&utcOffset=-3)|
 |---|---|
@@ -23,13 +23,13 @@ I use this space to share projects that strengthen my skills in both back-end an
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Em4nueel&theme=moltack)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Em4nueel&theme=moltack)
 
-<h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
+<h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts </h2>
 
 <a href="https://www.linkedin.com/in/joãoemanueldasilvaferreira">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px"> Skills:</h2>
+<h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px"> Skills </h2>
 
 <table align="center">
 
