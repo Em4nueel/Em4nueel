@@ -13,15 +13,15 @@ I use this space to share projects that strengthen my skills in both back-end an
 
 ## Status
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=em4nueel&theme=material-palenight)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=em4nueel&theme=material-palenight&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Em4nueel&theme=material-palenight)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Em4nueel&theme=material-palenight&utcOffset=-3)|
 |---|---|
 <br> 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=em4nueel&theme=material-palenight&hide_border=false)|![em4nueel's Stats](https://github-readme-stats.vercel.app/api?username=em4nueel&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+|![](https://github-readme-streak-stats.herokuapp.com/?user=Em4nueel&theme=material-palenight&hide_border=false)|![Em4nueel's Stats](https://github-readme-stats.vercel.app/api?username=Em4nueel&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=em4nueel&theme=material-palenight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=em4nueel&theme=material-palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Em4nueel&theme=material-palenight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Em4nueel&theme=material-palenight)
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts </h2>
 
