@@ -30,50 +30,51 @@ I use this space to share projects that strengthen my skills in both back-end an
 
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px"> Skills </h2>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
       <br>Java
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65" />
       <br>Spring Boot
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65" />
       <br>C
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
       <br>Angular
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
   </tr>
 </table>
+
 
 <h2><img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> Trophies </h2>
 
