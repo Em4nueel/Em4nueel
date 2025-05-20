@@ -7,7 +7,7 @@
 
 ### Welcome to my GitHub! :grin:
 
-#### Hello, my name is João Emanuel da Silva Ferreira. I am a Software Developer in training focused on **Java** and **Spring Boot**, continuously growing in **Data Mining** and **Machine Learning**.
+#### Hello, my name is João Emanuel da Silva Ferreira. I am a Software Developer focused on **Java** and **Spring Boot**, continuously growing in **Data Mining** and **Machine Learning**.
 
 I use this space to share projects that strengthen my skills in both back-end and front-end technologies, along with experiments in Agile methodologies.
 
