@@ -31,23 +31,24 @@ I use this space to share projects that strengthen my skills in both back-end an
 <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px"> Skills </h2>
 
 <table align="center">
-
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65" />
-    <br>Spring Boot
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65" />
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65" />
-    <br>C
+      <img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65" />
+      <br>C
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
@@ -57,6 +58,8 @@ I use this space to share projects that strengthen my skills in both back-end an
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -70,7 +73,6 @@ I use this space to share projects that strengthen my skills in both back-end an
       <br>Git
     </td>
   </tr>
-
 </table>
 
 <h2><img src="https://media4.giphy.com/media/PkY30am44byuuKIhxC/giphy.gif?cid=ecf05e47yz164j6jaxp6kt6427gf2gj0wutqvmvapgpo1atu&rid=giphy.gif&ct=g" width="35px" height="35px"> Trophies </h2>
